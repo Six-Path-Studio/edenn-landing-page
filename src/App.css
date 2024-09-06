@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#root {
+  max-width: 1512px;
+  margin: 0 auto;
+  font-family: "Prompt", sans-serif;
+}
+
+body {
+  background-color: #F1F1F1;
+}
+
+#hero {
+  background: url('/public/images/vectors/hero.png');
+  background-color: #0A3B1F;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#abt1 {
+  background: url('/public/images/vectors/abt-1.png');
+  background-color: #7C56C1;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#abt2 {
+  background: url('/public/images/vectors/abt-2.png');
+  background-color: #FFF0C4;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#about {
+  background: url(/public/images/vectors/about-1.png);
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#abt3 {
+  background: url(/public/images/vectors/hero.png);
+  background-color: #0A3B1F;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#app {
+  background: url(/public/images/vectors/app.png);
+  background-color: #7247B3;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
