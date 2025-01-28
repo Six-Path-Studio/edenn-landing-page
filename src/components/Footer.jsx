@@ -16,7 +16,7 @@ const Footer = () => {
 
         </div>
         <div className="my-auto sm:my-3">
-          <p className="lg:text-xs">@2024</p>
+          <p className="lg:text-xs">@2025</p>
         </div>
       </div>
       <div className="">
