@@ -67,7 +67,7 @@ const FAQAccordion = () => {
   };
 
   return (
-    <div className="mx-auto">
+    <div data-aos="zoom-out" className="mx-auto">
       {faqs.map((faq, index) => (
         <div key={index} className="mb-4 border-b border-[#EAEAEA]">
           <button

@@ -16,8 +16,8 @@ function App() {
           <h1 className='font-bold lg:text-6xl text-3xl text-[#212337] mb-4'>Frequently Asked Questions</h1>
           <Faq />
         </section>
-        <section className='lg:mx-24 mx-4'>
-          <div id='app' className='lg:flex justify-evenly rounded-[20px]'>
+        <section data-aos="fade-zoom-in" className='lg:mx-24 mx-4'>
+          <div id='app' className='lg:flex justify-between rounded-[20px]'>
             <div className='lg:w-[40%] sm:hidden'>
               <img className='mx-auto' src="/images/app-up.png" alt="" />
               <img className='mx-auto' src="/images/app-down.png" alt="" />
